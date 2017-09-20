@@ -4,5 +4,6 @@
         <page name='1_battleShip'/>
         <page name='2_CoreImage-filter'/>
         <page name='3_map-filter-reduce'/>
+        <page name='4_enumAssociatedValue'/>
     </pages>
 </playground>

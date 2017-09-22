@@ -6,5 +6,6 @@
         <page name='3_map-filter-reduce'/>
         <page name='4_enumAssociatedValue'/>
         <page name='5_enum-BinarySearchTree'/>
+        <page name='5-2_Trie'/>
     </pages>
 </playground>
